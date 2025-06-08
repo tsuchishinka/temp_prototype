@@ -1,0 +1,10 @@
+{
+  "name": "design_pattern",
+  "packageManager": "yarn@4.6.0",
+  "dependencies": {
+    "esbuild": "^0.25.5"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.4"
+  }
+}
